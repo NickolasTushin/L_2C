@@ -1,0 +1,15 @@
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/bin/Debug/net6.0/EX2 func
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/bin/Debug/net6.0/EX2 func.deps.json
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/bin/Debug/net6.0/EX2 func.runtimeconfig.json
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/bin/Debug/net6.0/EX2 func.dll
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/bin/Debug/net6.0/EX2 func.pdb
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/obj/Debug/net6.0/EX2 func.csproj.AssemblyReference.cache
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/obj/Debug/net6.0/EX2 func.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/obj/Debug/net6.0/EX2 func.AssemblyInfoInputs.cache
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/obj/Debug/net6.0/EX2 func.AssemblyInfo.cs
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/obj/Debug/net6.0/EX2 func.csproj.CoreCompileInputs.cache
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/obj/Debug/net6.0/EX2 func.dll
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/obj/Debug/net6.0/refint/EX2 func.dll
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/obj/Debug/net6.0/EX2 func.pdb
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/obj/Debug/net6.0/EX2 func.genruntimeconfig.cache
+/Users/nickolastushin/Desktop/edukation/C-lekc2/EX2 func/obj/Debug/net6.0/ref/EX2 func.dll
